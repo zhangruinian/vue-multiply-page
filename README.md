@@ -18,6 +18,7 @@ npm run build
 npm run build --report
 ```
 * [多页设置参考](https://www.jianshu.com/p/0a30aca71b16)
+* package.json中 npm run dev增加 --host 0.0.0.0 同一个wifi下可以根据ip查看
 * pages文件夹下面 新建页面之后要重新npm run start
 * pages文件夹下 index为例 index.html和index.js文件要同名
 * build 下配置修改 assetsPublicPath: './',
